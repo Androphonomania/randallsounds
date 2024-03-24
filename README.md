@@ -1,3 +1,3 @@
-# Death Sound Randomizer
+# All Sound Randomizer
 
-Death sound randomizer from mhv5 made in geode
+Sound randomizer from mhv7 made in geode

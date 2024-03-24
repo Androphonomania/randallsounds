@@ -2,13 +2,13 @@
 	"geode": "2.0.0-beta.19",
 	"gd": "2.204",
 	"version": "v1.0.0",
-	"id": "adam_729.randdeathsounds",
-	"name": "Death Sound Randomizer",
-	"developer": "Adam_729",
-	"description": "Death sound randomizer from mhv5 made in geode",
-	"repository": "https://github.com/Bean0of/randdeathsounds",
+	"id": "arigi.randallsounds",
+	"name": "All Sound Randomizer",
+	"developers": ["Adam_729, Arigi"],
+	"description": "Sound randomizer from mhv7 made in geode",
+	"repository": "https://github.com/Androphonomania/randallsounds",
 	"issues": {
-		"url": "https://github.com/Bean0of/randdeathsounds/issues",
+		"url": "https://github.com/Androphonomania/randallsounds/pulls",
 		"info": "Report bugs or suggest new features on the github repo"
 	},
 	"settings": {

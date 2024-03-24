@@ -1,3 +1,3 @@
-## Death Sound Randomizer Changelog
+## All Sound Randomizer Changelog
 # v1.0.0
 - Initial release
